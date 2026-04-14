@@ -1,0 +1,49 @@
+body {
+
+	background-color: powderblue;
+}
+
+
+a:hover{
+	color: white;
+	background-color: powderblue;
+}
+
+
+.hero {
+	background-image: url(../images/flowerBanner.jpg);
+	background-color: yellow;
+}
+.small-image {
+	width: 25%;
+	align-content: center;
+}
+
+
+.header {
+	background-image: url(../images/flowerBanner.jpg);
+	background-repeat: no-repeat;
+	min-height: 200px;
+
+}
+.column {
+	width: 33%;
+	float: left;
+}
+.clear {
+	clear: both;
+}
+.border {
+	border-style: solid;
+	border-color: darkred;
+}
+.nav-item{
+	list-style-type: none;
+	display: inline-table;
+	padding: 20px;
+	align-text: center;
+}
+
+.footer {
+	background-color: yellow;
+}
