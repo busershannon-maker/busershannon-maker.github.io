@@ -1,0 +1,105 @@
+/* Header Stuff */
+	.header-bg {
+		background-color: #000000;
+	}
+
+	.shoeBox-Logo {
+		max-width: 160px;
+		display: inline-block;
+
+	}
+
+	.white-shoe {
+		color: #FFFFFF;
+
+	}
+
+	.pink-box {
+		color: #Ff66cc;
+	}
+
+	.nav-link {
+		color: #7ac943;
+	}
+/* End Header Stuff
+
+
+/* font sizes */
+	h1 {
+		font-size: 160px;
+	}
+
+	h2 {
+		font-size: 120px;
+
+	}
+
+	h3 {
+		font-size: 80px;
+
+	}
+
+	.shoeBox-tab {
+		font-size: 53px;
+	}
+
+	p {
+		font-size: 40px;
+	}
+/* end font sizes*/
+
+
+
+/* Sour Gummy */
+	.sour-gummy-<uniquifier> {
+	  font-family: "Sour Gummy", sans-serif;
+	  font-optical-sizing: auto;
+	  font-weight: <weight>;
+	  font-style: normal;
+	  font-variation-settings:
+	    "wdth" 100;
+	}
+
+	.sour-gummy-med-italic {
+	  font-family: "Sour Gummy", sans-serif;
+	  font-optical-sizing: auto;
+	  font-weight: 500;
+	  font-style: italic;
+	  font-variation-settings:
+	    "wdth" 100;
+	}
+
+	.sour-gummy-bold {
+	  font-family: "Sour Gummy", sans-serif;
+	  font-optical-sizing: auto;
+	  font-weight: 700;
+	  font-style: normal;
+	  font-variation-settings:
+	    "wdth" 100;
+	}
+/* End Sour Gummy */
+
+/*Banner Stuff*/
+
+	.banner {
+		background-color: #330066;
+		min-height: 480px;
+
+	}
+
+/*End Banner Stuff*/
+
+/*Footer Stuff*/
+
+	.footer {
+		background-color: #000000;
+		min-height: 240px;
+	}
+
+/*End Footer Stuff*/
+
+/*Featured Section*/
+	.features {
+		background-color: #FFFFFF;
+
+	}
