@@ -195,7 +195,7 @@
 
 /*Featured Section*/
 	.features {
-		background-image: url("../images/shoeboxBGGreen.webp");
+		background-image: url("../images/shoeBoxBGGreen.webp");
 		background-repeat: repeat-y;
 		background-size: 100%;
 
@@ -322,7 +322,7 @@
 /*Start Comic Info*/
 
 	.comic-preview {
-		background-image: url("../images/shoeboxBGPink.webp");
+		background-image: url("../images/shoeBoxBGPink.webp");
 		background-repeat: repeat-y;
 		background-size: 100%;
 		
@@ -352,7 +352,7 @@
 
 
 	.comic-bg {
-		background-image: url("../images/shoeboxBGPurple.webp");
+		background-image: url("../images/shoeBoxBGPurple.webp");
 		background-repeat: repeat-y;
 		background-size: 100%;
 	}
